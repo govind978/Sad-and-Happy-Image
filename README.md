@@ -1,4 +1,4 @@
-## Description
+# Description
 This project utilizes a deep learning model to classify images as either happy or sad. The model is trained on a dataset obtained through web scraping, making it capable of discerning emotions from various sources. Enhance your image classification tasks with this easy-to-use solution!
 
 ## How to Download and Use:
